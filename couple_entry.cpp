@@ -5,6 +5,8 @@
 
 using namespace std;
 
+//Time complexity is O(n)
+
 int possibleWays(int arr[],int n){
 
     //map to store num and freq
